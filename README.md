@@ -1,3 +1,6 @@
+Оригинальный репозитарий   
+https://github.com/linkerd/linkerd2-proxy-api.   
+
 # Linkerd Proxy API
 
 This repo contains the gRPC bindings that the [Linkerd Proxy][proxy-gh] uses to
